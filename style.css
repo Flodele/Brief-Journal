@@ -1,0 +1,184 @@
+
+body{
+    border: solid;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 0px;
+    padding-top: 20px;
+}
+
+.img1{
+margin-right: 20px;
+width: 200px;
+height: auto;
+}
+
+.img2 {
+    width: 250px; 
+    height:175px; 
+    object-fit: cover;
+}
+
+.bandeau{
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 8px;
+    margin-left: 25px;
+}
+
+.source1{
+    font-style: italic;
+    writing-mode:vertical-lr;text-orientation:initial;
+    margin-left: -0px;
+}
+
+.claireresum{
+    font-size: 20px;
+}
+
+#nom{
+    color: blue;
+}
+
+#p6{
+    color: blue;
+}
+
+#P4{
+    color: blue;
+}
+
+#P10{
+    color: blue;
+}
+
+.grp1{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.title1{
+    margin-bottom: -10px;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    border: solid ;
+    border-color: blue;
+    background-color: blue;
+}
+
+.tribune{   
+    border-top: solid 2px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    margin-left: 25px;
+   margin-right: 30px;
+}
+
+.ventretrib{
+    display: flex;
+    flex-direction: row;
+    border-bottom: solid 10px;
+}
+
+.article3{
+    border-bottom: solid 1px;
+    padding-bottom: 10px;
+}
+
+.article2{
+    border-bottom: solid 1px;
+    padding-bottom: 10px;
+}
+
+.soustribunegauche{
+display: flex;
+flex-direction: column;
+    font-size: small;
+margin-right: 30px;
+padding-left: 40px ;
+padding-right: 10px;
+}
+
+
+
+.img3{
+    width: 200px;
+    height: 200px;
+}
+
+.img4{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.img5{
+    width: 590px; 
+    height:750px; 
+    object-fit: cover;
+    margin-right: 30px;
+}
+
+p{
+    font-size: 16px;
+}
+
+label{
+    font-size: 16px;
+    color: blue;
+    margin-bottom: -15px;
+}
+
+.ventretext{
+    color: white;
+    position:absolute;
+    top:680px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.titreventre{
+    font-size: 60px;
+}
+
+.resumeventre{
+    font-size: 20px;
+    margin-top: -50px;
+}
+
+.pubpic{
+    object-fit: cover;
+    width: 860px;
+}
+
+.sub{
+    display: flex;
+    flex-direction: row;
+}
+
+.pubsub{
+    font-style: italic;
+    writing-mode:vertical-lr;text-orientation:initial;
+    margin-left: -0px;
+}
+
+.source4{
+    display: flex;
+    justify-content: end;
+    font-style: italic;
+    writing-mode:vertical-lr;text-orientation:initial;
+    margin-left: -30px;
+}
+
+.pub{
+display: flex;
+flex-direction: row;
+align-content: end;
+align-items: end;
+margin-left: 11px;
+margin-bottom: 20px;
+}
