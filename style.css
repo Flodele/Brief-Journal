@@ -6,8 +6,7 @@
 body{
     border: solid;
     position: absolute;
-    padding-left: 0px;
-    padding-right: 0px;
+    margin-left: 500px;
     padding-top: 20px;
     font-family: 'Roboto Condensed', sans-serif;
 }
