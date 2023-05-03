@@ -4,7 +4,7 @@
 
 
 body{
-    border: solid;
+   
     position: absolute;
     margin-left: 500px;
     padding-top: 20px;
@@ -28,7 +28,7 @@ height: auto;
     display: flex;
     align-items: flex-end;
     padding-bottom: 8px;
-    margin-left: 40px;
+    margin-left: 45px;
 }
 
 .source1{
@@ -93,15 +93,16 @@ height: auto;
     display: flex;
     justify-content: space-between;
     font-size: 20px;
-    margin-left: 40px;
-   margin-right: 50px;
+    margin-left: 45px;
+   margin-right: 38px;
 }
 
 .ventretrib{
     display: flex;
     flex-direction: row;
     border-bottom: solid 1px;
-    padding-bottom: 0px;
+    margin-right: 4.5%;
+    margin-left: 46px;
 }
 
 .article3{
@@ -117,9 +118,8 @@ height: auto;
 .soustribunegauche{
 display: flex;
 flex-direction: column;
-padding-left: 40px ;
 padding-right: 5px;
-margin-bottom: 20px;
+margin-bottom: -13px;
 }
 
 
@@ -136,8 +136,8 @@ margin-bottom: 20px;
 }
 
 .img5{
-    width: 590px; 
-    height:750px; 
+    width: 583px; 
+    height:765px; 
     object-fit: cover;
     margin-right: 30px;
 }
@@ -157,6 +157,7 @@ label{
 }
 
 .ventretext{
+    
     color: white;
     position:absolute;
     top:680px;
@@ -210,7 +211,6 @@ display: flex;
 flex-direction: row;
 align-content: end;
 align-items: end;
-margin-left: px;
 margin-bottom: 20px;
 }
 
