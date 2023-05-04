@@ -4,11 +4,10 @@
 
 
 body{
-   
-    position: absolute;
-    margin-left: 500px;
+    display: flex;
     padding-top: 20px;
     font-family: 'Roboto Condensed', sans-serif;
+    justify-content: center;
 }
 
 .img1{
